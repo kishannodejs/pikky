@@ -1,0 +1,6 @@
+{
+  "/not-found": "app/not-found.js",
+  "/flight/flightlist/page": "app/flight/flightlist/page.js",
+  "/api/flight/route": "app/api/flight/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js"
+}
